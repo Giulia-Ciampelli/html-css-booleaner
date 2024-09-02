@@ -17,7 +17,10 @@ header {
 /* fine impostazioni header */
 
 /* impostazioni main */
-
+main {
+    margin-left: 5%;
+    margin-right: 5%;
+}
 /* impostazioni sezione foto iniziali */
 .author {
     color: gray;
@@ -71,6 +74,11 @@ header {
 /* fine impostazioni main */
 
 /* impostazioni footer */
+footer {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 #footer {
     color: gray;
 }
