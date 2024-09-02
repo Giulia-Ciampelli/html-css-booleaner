@@ -19,10 +19,6 @@ header {
 /* impostazioni main */
 
 /* impostazioni sezione foto iniziali */
-span {
-    color: aqua;
-}
-
 .author {
     color: gray;
 }
@@ -31,10 +27,20 @@ span {
     font-size: smaller;
 }
 
+#header-colour {
+    color: aqua;
+}
+
 #date {
     font-size: small;
 }
 /* fine impostazioni sezione foto iniziali */
+
+/* impostazioni paragrafo ed elenco*/
+#highlight {
+    background-color: yellow;
+}
+/* fine impostazioni paragrafo ed elenco */
 
 /* impostazioni tabella non tabella */
 
