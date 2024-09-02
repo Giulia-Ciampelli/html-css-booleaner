@@ -1,7 +1,17 @@
 /* impostazioni pagina */
 
 /* impostazioni header */
+header {
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-bottom: 1%;
+}
 
+#logo-header {
+    width: 20%;
+}
 /* impostazioni main */
 
 /* impostazioni tabella non tabella */
