@@ -55,17 +55,19 @@ main {
     background-color: skyblue;
 }
 
+.title-row {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+}
+
 .row1 {
     display: inline-block;
     width: 32%;
+    text-align: center;
 }
 
 .row2 {
-    display: inline-block;
-    width: 32%;
-}
-
-.row3 {
     display: inline-block;
     width: 32%;
 }
