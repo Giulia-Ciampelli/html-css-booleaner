@@ -70,6 +70,22 @@ header {
 
 /* fine impostazioni main */
 
-/* inpostazioni footer */
+/* impostazioni footer */
+#footer {
+    color: gray;
+}
 
+#link-1 {
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    padding-bottom: 13%;
+    width: 22%;
+}
+
+#link-2 {
+    color: white;
+    background-image: url(../img/graph.jpg);
+    padding-bottom: 13%;
+    width: 22%;
+}
 /* fine impostazioni footer */
