@@ -1,5 +1,7 @@
 /* impostazioni pagina */
 
+/* fine impostazioni pagina */
+
 /* impostazioni header */
 header {
     background-image: url(../img/pattern.png);
@@ -12,8 +14,34 @@ header {
 #logo-header {
     width: 20%;
 }
+/* fine impostazioni header */
+
 /* impostazioni main */
+
+/* impostazioni sezione foto iniziali */
+span {
+    color: aqua;
+}
+
+.author {
+    color: gray;
+}
+
+.description {
+    font-size: smaller;
+}
+
+#date {
+    font-size: small;
+}
+/* fine impostazioni sezione foto iniziali */
 
 /* impostazioni tabella non tabella */
 
+/* fine impostazioni tabella non tabella */
+
+/* fine impostazioni main */
+
 /* inpostazioni footer */
+
+/* fine impostazioni footer */
