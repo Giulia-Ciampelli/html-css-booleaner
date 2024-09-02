@@ -37,13 +37,35 @@ header {
 /* fine impostazioni sezione foto iniziali */
 
 /* impostazioni paragrafo ed elenco*/
-#highlight {
+.highlight {
     background-color: yellow;
 }
 /* fine impostazioni paragrafo ed elenco */
 
 /* impostazioni tabella non tabella */
+.title {
+    background-color: rgb(46, 158, 255);
+    color: white;
+}
 
+.skyblue {
+    background-color: skyblue;
+}
+
+.row1 {
+    display: inline-block;
+    width: 32%;
+}
+
+.row2 {
+    display: inline-block;
+    width: 32%;
+}
+
+.row3 {
+    display: inline-block;
+    width: 32%;
+}
 /* fine impostazioni tabella non tabella */
 
 /* fine impostazioni main */
