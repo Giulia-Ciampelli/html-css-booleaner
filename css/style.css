@@ -58,6 +58,7 @@ main {
 .title-row {
     display: inline-block;
     width: 32%;
+    text-align: left;
 }
 
 .row1 {
