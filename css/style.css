@@ -1,5 +1,7 @@
 /* impostazioni pagina */
-
+body {
+    margin: 0px;
+}
 /* fine impostazioni pagina */
 
 /* impostazioni header */
@@ -46,6 +48,18 @@ main {
 /* fine impostazioni paragrafo ed elenco */
 
 /* impostazioni tabella */
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: rgb(46, 158, 255);
+    color: white;
+    display: inline-block;
+    width: 32%;
+    text-align: left;
+}
+
 .title {
     background-color: rgb(46, 158, 255);
     color: white;
